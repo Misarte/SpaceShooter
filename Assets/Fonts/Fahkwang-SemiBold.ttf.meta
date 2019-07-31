@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 44749edd56e653d458039c393ef6e85c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fahkwang SemiBold
+  fontNames:
+  - Fahkwang SemiBold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 242592f67ab59954c8c0f47f12e44a52, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
